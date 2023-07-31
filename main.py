@@ -1,4 +1,5 @@
 def main(user_name):
+  print(user_name)
   return user_name
 
 if __name__ == "__main__":
