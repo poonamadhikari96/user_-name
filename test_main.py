@@ -20,7 +20,7 @@ def test_problem_1():
     output = get_display_output()
 
     assert output == [
-            "Input user name: ",
+            "Input your name ",
             "\npoonam" 
     ]
 
